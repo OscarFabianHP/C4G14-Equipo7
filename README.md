@@ -2,11 +2,11 @@
 Proyecto del Equipo #7 del ciclo Desarrollo de aplicaciones de la UNAB
 
 INTEGRANTES DEL EQUIPO:
-Mario Mendigana
-Juan David Vera
-Cris Gonzales
-Oscar Fabián Herrera
-Alexander Martinez
+Mario Mendigana,
+Juan David Vera,
+Cris Gonzales,
+Oscar Fabián Herrera,
+Alexander Martinez.
 
 TITULO: 
 APP Vida Saludable
