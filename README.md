@@ -5,8 +5,7 @@ INTEGRANTES DEL EQUIPO:
 Mario Mendigana,
 Juan David Vera,
 Cris Gonzales,
-Oscar Fabián Herrera,
-Alexander Martinez.
+Oscar Fabián Herrera.
 
 TITULO: 
 APP Vida Saludable
